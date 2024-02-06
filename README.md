@@ -33,7 +33,7 @@ Commands
 
 In the README.md file, the user can find the requirements for the project. After understanding 'README.md' file the requirements for the project are documented, including the need for Node.js, Java, and npm.  
  
-![image](https://user-images.githubusercontent.com/63364609/233578447-c0dcccf9-e311-4ff7-b885-0d04d466c5d1.png)
+![image](https://user-images.githubusercontent.com/63364609/233578447-c0dcccf9-e311-4ff7-b885-0d04d466c5d1.png
 
 Step 4: Create a docker image using a dockerfile
 
